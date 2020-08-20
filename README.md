@@ -19,17 +19,31 @@
 #git add
 
 #git commit -am "message"
+
 #git checkout <branch>
+  
 #git push -u origin <branch>
+  
 #git branch -b newbranch
+
 #git reset --hard
+
 #git reset --soft
+
 #git commit -m"commit message"
+
 #git merge <branch>
+  
 #git rebase -i
+
 #git stash
+
 #git pull
+
 #git fetch
+
 #git log
+
 #git reflog
+
 #git status
