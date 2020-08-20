@@ -15,7 +15,9 @@
 # COMMANDS USED
 
 #git init
+
 #git add
+
 #git commit -am "message"
 #git checkout <branch>
 #git push -u origin <branch>
